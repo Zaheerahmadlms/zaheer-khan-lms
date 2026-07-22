@@ -1,0 +1,13 @@
+{
+  "name": "zaheer-khan-lms",
+  "version": "1.0.0",
+  "description": "Zaheer Ahmad Khan Advocate - Legal Management System",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in browser'",
+    "test": "echo 'No tests yet'"
+  },
+  "author": "Zaheer Ahmad Khan Advocate",
+  "license": "Private",
+  "keywords": ["legal", "lms", "advocate", "pakistan", "case-management"]
+}
